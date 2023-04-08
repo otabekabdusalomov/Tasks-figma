@@ -70,7 +70,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 .product-heading {
   font-family: 'Gilroy-Bold';
   font-size: 48px;

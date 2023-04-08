@@ -5,7 +5,8 @@
         <Volontyor />
         <Information />
         <Statistika />
-        <Product />       
+        <Product />
+        <Company />       
     </div>
 </template>
 
@@ -15,7 +16,8 @@ import Platform from "../Main/Platform.vue";
 import Volontyor from "../Main/Volontyor.vue";
 import Information from "../Main/Information.vue";
 import Statistika from "../Main/Statistika.vue";
-import Product from "../Main/Product.vue"
+import Product from "../Main/Product.vue";
+import Company from "../Main/Company.vue";
 export default {
     components: {
         Hero,
@@ -24,6 +26,7 @@ export default {
         Information,
         Statistika,
         Product,
+        Company,
     },    
 }
 </script>
