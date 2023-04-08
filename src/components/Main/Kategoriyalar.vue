@@ -16,9 +16,9 @@
 
             <ul class="kategory-list pt-10">
                 <li class="kategory-list-item flex justify-center gap-6">
-                    <img src="../../../public/img/Iphone 21.svg" alt="phone">
-                    <img class="pt-14" src="../../../public/img/Iphone 3.svg" alt="phone">
-                    <img src="../../../public/img/Iphone 1.svg" alt="phone">
+                    <img src="../../../public/img/Iphone21.svg" alt="phone">
+                    <img class="pt-14" src="../../../public/img/Iphone3.svg" alt="phone">
+                    <img src="../../../public/img/Iphone1.svg" alt="phone">
                 </li>
             </ul>
         </div>
