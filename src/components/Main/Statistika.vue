@@ -46,7 +46,7 @@
                     
                     <li class="statistika-list-item pt-16">
                         <a class="statistika-link flex gap-8 pt-3 align-middle pb-6" href="#">
-                            <img src="../../../public/img/Ellipse 5.svg" alt="man-icon">
+                            <img src="../../../public/img/ellipse.svg" alt="man-icon">
                             <h4 class="statistika-man-icon m-0 p-0">Eshonov Fakhriyor</h4>
                         </a>
                         <p class="statistika-left-decs p-0 m-0">Я хотел бы выразить вам свою глубокую благодарность за вашу щедрость и помощь, которую вы оказали мне, оплатив операцию. Я не могу выразить словами, как важна эта помощь для меня и моей семьи.</p>
@@ -64,9 +64,7 @@
 </template>
 
 <script>
-export default {
-    
-}
+
 </script>
 
 <style scoped>
