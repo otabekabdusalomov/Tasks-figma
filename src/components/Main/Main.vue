@@ -6,7 +6,8 @@
         <Information />
         <Statistika />
         <Product />
-        <Company />       
+        <Company /> 
+        <kategoriyalar />      
     </div>
 </template>
 
@@ -18,6 +19,7 @@ import Information from "../Main/Information.vue";
 import Statistika from "../Main/Statistika.vue";
 import Product from "../Main/Product.vue";
 import Company from "../Main/Company.vue";
+import Kategoriyalar from './Kategoriyalar.vue';
 export default {
     components: {
         Hero,
@@ -27,6 +29,7 @@ export default {
         Statistika,
         Product,
         Company,
+        Kategoriyalar,
     },    
 }
 </script>

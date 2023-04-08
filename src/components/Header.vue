@@ -15,7 +15,7 @@ import LeftCall from "../../public/img/leftcall.svg";
         <LeftCall />
         <div class="blog-left-info ml-2">
           <p class="blog-left-desc">Taklif va savollar bo’yicha</p>
-          <a class="blog-left-link">+998 97 628 28 82</a>
+          <a href="+998976282882" class="blog-left-link">+998 97 628 28 82</a>
         </div>
       </div>
     </div>
@@ -24,10 +24,16 @@ import LeftCall from "../../public/img/leftcall.svg";
 
 
 <style>
-.blog-left-decs {
+.blog-left-desc {
+  font-family: 'Gilroy-SemiBold';
   font-size: 14px;
   line-height: 120%;
-  text-align: center;
   color: #739289;
+}
+.blog-left-link {
+  font-family: 'Gilroy-Bold';
+  font-size: 14px;
+  line-height: 120%;
+  color: #3C4F4A;
 }
 </style>

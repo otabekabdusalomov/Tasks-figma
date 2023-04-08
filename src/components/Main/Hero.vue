@@ -31,11 +31,12 @@ export default {
     background-repeat: no-repeat;
     height: 100vh;
     background-size: contain;
+    flex-shrink: 1;
 }
 .hero-left-link {
-   
     padding: 15px 54px;
     left: 1144px;
     background: #0BBF90;
+    flex-shrink: 0;
 }
 </style>
