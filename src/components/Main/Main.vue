@@ -7,7 +7,7 @@
         <Statistika />
         <Product />
         <Company /> 
-        <kategoriyalar />      
+        <Kategoriyalar />      
     </div>
 </template>
 

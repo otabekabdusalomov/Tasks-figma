@@ -22,7 +22,6 @@ import LeftCall from "../../public/img/leftcall.svg";
   </header>
 </template>
 
-
 <style>
 .blog-left-desc {
   font-family: 'Gilroy-SemiBold';
